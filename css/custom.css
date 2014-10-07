@@ -48,5 +48,14 @@ body {
   float:left;
 }
 
+.pub-header {
+  font-weight: lighter;
+  font-family: Helvetica
+}
+ .citation {
+  font-family: Helvetica;
+  font-size: 16px;
+  font-weight: lighter;
+ }
 
 
