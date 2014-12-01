@@ -19,6 +19,9 @@ body {
   .id-pic{
     float: none;
   }
+ .media-body{
+    overflow: visible;
+ }
 }
 
 .footer {
